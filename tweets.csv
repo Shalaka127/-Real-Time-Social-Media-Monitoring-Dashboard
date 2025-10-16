@@ -1,0 +1,111 @@
+id,text,timestamp,user
+u0,Kafka replaced by simulation,2025-09-23T11:35:32.868136,user2
+u1,Real-time analytics demo,2025-09-23T11:35:33.376826,user1
+u2,Dashboard running,2025-09-23T11:35:33.883444,user2
+u3,Kafka replaced by simulation,2025-09-23T11:35:34.397814,user2
+u4,Real-time analytics demo,2025-09-23T11:35:34.907932,user1
+u5,Kafka replaced by simulation,2025-09-23T11:35:35.410206,user3
+u6,Real-time analytics demo,2025-09-23T11:35:35.913811,user2
+u7,Streamlit is awesome,2025-09-23T11:35:36.419188,user3
+u8,Kafka replaced by simulation,2025-09-23T11:35:36.924952,user2
+u9,Streamlit is awesome,2025-09-23T11:35:37.428924,user3
+u10,Dashboard running,2025-09-23T11:35:37.933807,user1
+u11,Real-time analytics demo,2025-09-23T11:35:38.440796,user2
+u12,Kafka replaced by simulation,2025-09-23T11:35:38.945247,user1
+u13,Streamlit is awesome,2025-09-23T11:35:39.451805,user2
+u14,Dashboard running,2025-09-23T11:35:39.954978,user1
+u15,Real-time analytics demo,2025-09-23T11:35:40.462955,user2
+u16,Streamlit is awesome,2025-09-23T11:35:40.964823,user2
+u17,Real-time analytics demo,2025-09-23T11:35:41.466320,user2
+u18,Real-time analytics demo,2025-09-23T11:35:41.967855,user3
+u19,Streamlit is awesome,2025-09-23T11:35:42.469391,user1
+u0,I love data!,2025-09-23T11:59:25.168906,user2
+u1,I love data!,2025-09-23T11:59:25.670610,user2
+u2,Kafka replaced by simulation,2025-09-23T11:59:26.172313,user2
+u3,Real-time analytics demo,2025-09-23T11:59:26.674094,user3
+u4,I love data!,2025-09-23T11:59:27.176615,user2
+u5,Kafka replaced by simulation,2025-09-23T11:59:27.679816,user2
+u6,I love data!,2025-09-23T11:59:28.184343,user3
+u7,Kafka replaced by simulation,2025-09-23T11:59:28.686420,user3
+u8,Real-time analytics demo,2025-09-23T11:59:29.193800,user3
+u9,Dashboard running,2025-09-23T11:59:29.699871,user2
+u10,I love data!,2025-09-23T11:59:30.208795,user3
+u11,Dashboard running,2025-09-23T11:59:30.712805,user3
+u12,I love data!,2025-09-23T11:59:31.226809,user3
+u13,Dashboard running,2025-09-23T11:59:31.730825,user1
+u14,I love data!,2025-09-23T11:59:32.235151,user1
+u15,I love data!,2025-09-23T11:59:32.736938,user1
+u16,I love data!,2025-09-23T11:59:33.238667,user2
+u17,Real-time analytics demo,2025-09-23T11:59:33.740347,user3
+u18,Streamlit is awesome,2025-09-23T11:59:34.242136,user3
+u19,Streamlit is awesome,2025-09-23T11:59:34.743799,user3
+u0,I love data!,2025-09-23T12:03:03.263267,user3
+u1,Kafka replaced by simulation,2025-09-23T12:03:03.764827,user3
+u2,I love data!,2025-09-23T12:03:04.266477,user2
+u3,I love data!,2025-09-23T12:03:04.768492,user3
+u4,Kafka replaced by simulation,2025-09-23T12:03:05.270418,user1
+u5,I love data!,2025-09-23T12:03:05.772155,user2
+u6,Real-time analytics demo,2025-09-23T12:03:06.273824,user1
+u7,Kafka replaced by simulation,2025-09-23T12:03:06.775494,user1
+u8,Streamlit is awesome,2025-09-23T12:03:07.277171,user1
+u9,I love data!,2025-09-23T12:03:07.779569,user3
+u10,Real-time analytics demo,2025-09-23T12:03:08.281364,user3
+u11,Real-time analytics demo,2025-09-23T12:03:08.783202,user1
+u12,Dashboard running,2025-09-23T12:03:09.284937,user3
+u13,Dashboard running,2025-09-23T12:03:09.787083,user2
+u14,Kafka replaced by simulation,2025-09-23T12:03:10.288805,user1
+u15,Dashboard running,2025-09-23T12:03:10.790467,user2
+u16,Real-time analytics demo,2025-09-23T12:03:11.292335,user1
+u17,Kafka replaced by simulation,2025-09-23T12:03:11.794573,user2
+u18,Streamlit is awesome,2025-09-23T12:03:12.297025,user3
+u19,Real-time analytics demo,2025-09-23T12:03:12.800248,user1
+u0,Streamlit is awesome!,2025-09-23T12:03:21.287543,user2
+u1,Real-time analytics demo,2025-09-23T12:05:27.287543,user1
+u2,Streamlit is awesome!,2025-09-23T12:02:14.287543,user1
+u3,Real-time analytics demo,2025-09-23T12:03:08.287543,user3
+u4,Dashboard running smoothly,2025-09-23T12:02:50.287543,user3
+u5,This is terrible,2025-09-23T12:04:26.287543,user2
+u6,Fantastic dashboard!,2025-09-23T12:04:25.287543,user1
+u7,Dashboard running smoothly,2025-09-23T12:02:14.287543,user3
+u8,Dashboard running smoothly,2025-09-23T12:05:28.287543,user2
+u9,Real-time analytics demo,2025-09-23T12:02:16.287543,user1
+u10,Dashboard running smoothly,2025-09-23T12:04:36.287543,user3
+u11,Dashboard running smoothly,2025-09-23T12:05:57.287543,user1
+u12,I love data!,2025-09-23T12:05:14.287543,user1
+u13,Fantastic dashboard!,2025-09-23T12:05:49.287543,user1
+u14,This is terrible,2025-09-23T12:03:29.287543,user1
+u15,Fantastic dashboard!,2025-09-23T12:03:49.287543,user2
+u16,Fantastic dashboard!,2025-09-23T12:02:59.287543,user2
+u17,I love data!,2025-09-23T12:01:50.287543,user2
+u18,Real-time analytics demo,2025-09-23T12:03:40.287543,user2
+u19,Streamlit is awesome!,2025-09-23T12:03:59.287543,user1
+u20,I love data!,2025-09-23T12:04:07.287543,user2
+u21,I hate bugs,2025-09-23T12:06:00.287543,user3
+u22,I love data!,2025-09-23T12:03:26.287543,user1
+u23,I hate bugs,2025-09-23T12:03:47.287543,user1
+u24,Real-time analytics demo,2025-09-23T12:02:34.287543,user1
+u25,Real-time analytics demo,2025-09-23T12:05:57.287543,user2
+u26,Streamlit is awesome!,2025-09-23T12:01:27.287543,user3
+u27,I love data!,2025-09-23T12:01:18.287543,user1
+u28,Real-time analytics demo,2025-09-23T12:04:46.287543,user3
+u29,Real-time analytics demo,2025-09-23T12:04:43.287543,user3
+u30,I love data!,2025-09-23T12:05:35.287543,user2
+u31,This is terrible,2025-09-23T12:03:17.287543,user3
+u32,This is terrible,2025-09-23T12:03:42.287543,user2
+u33,Fantastic dashboard!,2025-09-23T12:05:16.287543,user3
+u34,Kafka replaced by simulation,2025-09-23T12:03:48.287543,user2
+u35,I love data!,2025-09-23T12:02:40.287543,user2
+u36,This is terrible,2025-09-23T12:03:38.287543,user3
+u37,Fantastic dashboard!,2025-09-23T12:01:54.287543,user2
+u38,Dashboard running smoothly,2025-09-23T12:03:55.287543,user3
+u39,Kafka replaced by simulation,2025-09-23T12:05:31.287543,user1
+u40,This is terrible,2025-09-23T12:04:13.287543,user1
+u41,Real-time analytics demo,2025-09-23T12:04:11.287543,user3
+u42,I hate bugs,2025-09-23T12:04:10.287543,user2
+u43,I love data!,2025-09-23T12:01:18.287543,user1
+u44,I love data!,2025-09-23T12:03:43.287543,user3
+u45,Dashboard running smoothly,2025-09-23T12:02:24.287543,user3
+u46,I love data!,2025-09-23T12:02:52.287543,user2
+u47,Fantastic dashboard!,2025-09-23T12:06:13.287543,user1
+u48,Kafka replaced by simulation,2025-09-23T12:03:17.287543,user1
+u49,This is terrible,2025-09-23T12:03:01.287543,user1
